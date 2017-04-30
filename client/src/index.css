@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.App {
+  margin-top: 7em;
+}
+
+.wrapper {
+  text-align: center;
+}
+
+.search-field {  
+  max-width: 500px;
+  margin:auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.eventList {
+  list-style: none;
+  padding: 0;
+}
+
+/*individual events*/
+.eventList li {
+  background-color: #F6F8FA;  
+  margin-bottom: 10px;
+  max-width: 500px;
+  margin: auto;
+  margin-bottom: 10px;
+  border-radius: 13px;
+}
+
+.title {
+  color: #67A35C;
+  font-size: 22px;
+}
+
+.location { 
+  color: #7C61A3;
+}
+
+.startTime {
+  color: #184EAB;
+}
+
+.endTime {
+  color: #0086B3;
+}
