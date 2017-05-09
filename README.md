@@ -1,4 +1,4 @@
-# it-Groove Challenge
+# UpcomingEvents Challenge
 
 Requirements:
 - Express backend + react frontend
